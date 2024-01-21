@@ -36,9 +36,15 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 
-Install my-project with npm
+## Install my-project with npm
 
 ```bash
   npx create-next-app@latest
   cd my-project
 ```
+
+## Install Extension on VSCode
+
+ES7+ React/Redux/React-Native snippets
+html to JSX
+
